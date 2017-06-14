@@ -1,2 +1,0 @@
-The download url for 'Dogs and Cats' and 'CamVid' dataset for Hand-on is : 
-https://drive.google.com/drive/folders/0B7xmuEfhzGGWalVoQXNCb3JxZ3c?usp=sharing
